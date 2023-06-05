@@ -18,9 +18,11 @@ body {
 button {
   width: 45%;
   align-self: center;
+  padding: .85rem 1em;
+  margin-bottom: 10px;
+  margin-top: 12px;
 }
 p {
   text-align: center;
   font-weight: bold;
-  padding: 1em 1rem;
 }
