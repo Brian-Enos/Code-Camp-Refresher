@@ -6,4 +6,21 @@
 img {
   max-width: 150px;
   height: auto;
+  margin: 0 auto;
+}
+body {
+ border: 3px solid red;
+ display: flex;
+ flex-direction: column;
+ width: 45%;
+ justify-content: center;
+}
+button {
+  width: 45%;
+  align-self: center;
+}
+p {
+  text-align: center;
+  font-weight: bold;
+  padding: 1em 1rem;
 }
