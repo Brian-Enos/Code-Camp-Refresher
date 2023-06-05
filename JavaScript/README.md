@@ -1,0 +1,1 @@
+This repo will contain all the code I do to refresh my memory on basic programming priciples
