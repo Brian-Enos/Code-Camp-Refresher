@@ -1,8 +1,8 @@
 
-let craeteButton = document.getElementById("createButton");
+let createButton = document.getElementById("createButton");
 
-craeteButton.addEventListener("click", function() {
+createButton.addEventListener("click", function() {
   let newDiv = document.createElement("div");
   newDiv.textContent = "Newly Created Div Element" ;
   document.body.appendChild(newDiv);
-})
+});
