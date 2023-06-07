@@ -9,3 +9,4 @@ let result2 = null === undefined ; //would return fales
 
 
 console.log(result2);
+console.log(typeof result2); //returns boolean
