@@ -7,3 +7,8 @@ console.count(o3);
 console.count(1);
 console.count("2");
 console.count("5");
+
+
+console.count(function() {});
+
+//etc etc
