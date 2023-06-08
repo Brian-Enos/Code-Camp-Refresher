@@ -10,4 +10,17 @@
 console.time("Response in: ");
 
 alert("Click to continuew");
-console.timeEnd("Response in: ")
+console.timeEnd("Response in: ");
+
+
+let elms = document.getElementsByTagName("*"); //Selects all elements
+
+console.time("Loop Time: ");
+
+for (let i = 0; i < 5000; i++) {
+  for(let j = 0, lenght = elms.lenght; j < length ; j++) {
+
+  }
+}
+
+console.timeEnd("Loop Time: ")
